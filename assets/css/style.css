@@ -38,7 +38,7 @@ text-align: center;
 .glass2{
 
   width: 90%;
-  height: 80vh;
+  height: 100vh;
   background: linear-gradient(to left bottom, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.55));
   
   border-radius: 10px;
@@ -48,7 +48,7 @@ text-align: center;
 .glass3{
 
   width: 90%;
-  height: 120vh;
+  height: 140vh;
   background: linear-gradient(to left bottom, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.55));
  
   border-radius: 10px;
@@ -58,7 +58,7 @@ text-align: center;
 .glass4{
 
   width: 90%;
-  height: 120vh;
+  height: 140vh;
   background: linear-gradient(to left bottom, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.55));
 
   border-radius: 10px;
@@ -68,7 +68,7 @@ text-align: center;
 .glass5{
 
   width: 90%;
-  height: 120vh;
+  height: 140vh;
   background: linear-gradient(to left bottom, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.55));
  
   border-radius: 10px;
